@@ -1,6 +1,5 @@
 # WeaponRevolution
 
-# tdd_on_node
 
 # 第一问
 * 两个普通人，张三和李四
